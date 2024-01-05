@@ -1,1 +1,3 @@
 # Machine-Learning
+
+I have been thinking about studying machine learning for a long time...
